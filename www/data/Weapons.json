@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":2,"animationId":0,"description":"薪传用来指点黑板、吓唬不乖的同学的教鞭。\n提升思辨力、反应力和MP。能够使用技能“指挥”。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":43,"dataId":6,"value":1}],"iconIndex":107,"name":"薪传的教鞭","note":"","params":[0,40,0,0,5,0,10,0],"price":300,"wtypeId":13},
+{"id":3,"animationId":7,"description":"荀心登山时喜欢拿的一把刀，取名为“热浪”。\n提升攻击力。能够使用技能“热浪随心斩”。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":43,"dataId":44,"value":1}],"iconIndex":123,"name":"荀心的“热浪”","note":"","params":[0,0,15,0,0,0,0,0],"price":0,"wtypeId":13},
+{"id":4,"animationId":6,"description":"请一定要小心使用。\n提升攻击力。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":96,"name":"锋利的水果刀","note":"","params":[0,0,10,0,0,0,0,0],"price":100,"wtypeId":13},
+{"id":5,"animationId":0,"description":"记录了很多强大的魔法。\n提升思辨力和MP，能够使用技能“火球术”。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":43,"dataId":18,"value":1}],"iconIndex":118,"name":"英雄的法术书","note":"","params":[0,20,0,0,5,0,0,0],"price":100,"wtypeId":13},
+{"id":6,"animationId":0,"description":"记录了空镜成长足迹的笔记本。\n提升思辨力和MP，能够使用技能“怒焰流星雨”。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":43,"dataId":19,"value":1}],"iconIndex":118,"name":"空镜的笔记本","note":"","params":[0,30,0,0,10,0,0,0],"price":200,"wtypeId":13},
+{"id":7,"animationId":0,"description":"鲲鹏以及其科研伙伴们心血的凝结。\n提升思辨力和MP，能够使用多个攻击性法术。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":43,"dataId":18,"value":1},{"code":43,"dataId":70,"value":1},{"code":43,"dataId":19,"value":1}],"iconIndex":118,"name":"鲲鹏的论文集","note":"","params":[0,50,0,0,15,0,0,0],"price":500,"wtypeId":13}
+]
